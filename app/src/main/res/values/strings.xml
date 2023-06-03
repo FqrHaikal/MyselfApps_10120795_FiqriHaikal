@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">lilfiqri</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //View Pager
+    <string name="welcome">LilFiqri App</string>
+    <string name="swipe">Swipe >></string>
+    <string name="gunakan_navbar">This is an application to view personal data</string>
+    <string name="lanjut">Get Started!</string>
+
+    //Home Page
+    <string name="card_title_saya">About me</string>
+    <string name="text_content_saya">hello, introduce my name is <b>Fiqri Haikal</b>, you can call me Fiqri or Fiq. I am a student at the <b>Indonesian Computer University</b> in Bandung and I am majoring in Informatics Engineering</string>
+    <string name="card_title_hobby">My Hobby</string>
+    <string name="text_content_hobby">I have several hobbies, namely traveling, hiking, making videos/films, and camping</string>
+    <string name="card_title_makes">Favorite Food</string>
+    <string name="text_content_makes">Fried Chicken</string>
+    <string name="card_title_mikes">Favorite Drink</string>
+    <string name="text_content1_mikes">Coffee, Avocado Juice</string>
+    <string name="text_content2_mikes">(when you know, you know)</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+
+    //Activity
+    <string name="daily_atc">Daily Activity</string>
+
+    //Favorite
+    <string name="eminem">EmineM</string>
+    <string name="rg">Rap God</string>
+    <string name="gd">Godzilla</string>
+    <string name="mb">Mocking Bird</string>
+
+    <string name="cold">Coldplay</string>
+    <string name="fy">Fix You</string>
+    <string name="mu">My Universe</string>
+    <string name="yellow">Yellow</string>
+
+    <string name="four">Fourtwenty</string>
+    <string name="ls">Larasuka</string>
+    <string name="mangu">Mangu</string>
+
+    <string name="ran">R.A.N</string>
+    <string name="sp">Selamat Pagi</string>
+
+    //About
+    <string name="contactme">Contact Me</string>
+    <string name="ig"><a href="https://instagram.com/f_haikal02?igshid=ZDc4ODBmNjlmNQ==">Instagram</a></string>
+    <string name="nohp"><a href="https://wa.me/082213438894">082213438894</a></string>
+    <string name="email"><a href="mailto:fiqrihaikal451@gmail.com">fiqrihaikal451@gmail.com</a></string>
+    <string name="maps"><a href="https://goo.gl/maps/1AFsq5dj2h8iTGDd9">Find Me</a></string>
+    <string name="app_info">App Info</string>
+    <string name="version">Version 1.0</string>
+
+    //galery
+    <string name="gallery">My Gallery</string>
+
+</resources>
